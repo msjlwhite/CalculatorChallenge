@@ -56,7 +56,7 @@ public class CalculatorChallenge {
                 case 2: // takes in two values and subtracts the second value from the first
                     subtract();
                     break;
-                case 3: // takes in two values and adds them together
+                case 3: // takes in two values and multiplies the first value by the second (P.S. Yo Yo Yo, JoAnna wrote this CODE!! Twin OUT!!!!!)
                     multiply();
                     break;
                 case 4: // takes in two values and divides the first value by the second
